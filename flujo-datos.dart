@@ -23,7 +23,7 @@ void main() {
   /// Operaciones Relacionales ///
   void opRelacionales() {
     /// Operadores:
-    ///   ==, !=, =>, >, < y <=
+    ///   ==, !=, =>, >, <, >= y <=
     int valor1 = 12;
     int valor2 = 14;
     bool result = valor1 == valor2;
